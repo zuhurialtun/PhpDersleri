@@ -73,7 +73,5 @@ PHP, 'C', 'C++' ve Unix kabuk tarzı (Perl tarzı) açıklamaların hepsini dest
 
 
 
-
-
 ## Alıntılar
-- [Patika Web Sitesi](https://app.patika.dev/courses/php-temel/yazim-kurallari)
+- [Patika Web Sitesi](https://app.patika.dev)
